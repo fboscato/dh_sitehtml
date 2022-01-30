@@ -1,0 +1,26 @@
+body {    
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 250px;
+    text-align: justify;
+
+}
+.titulo {
+    color: red;
+}
+.destaque{
+    width: 900px;
+}
+ul{
+    width: 15%;
+    margin: auto;
+}
+ul li {
+    display: inline-block;    
+}
+.logo{
+    width: 25px;
+   
+    /* text-align: center;     */
+    list-style: none;      
+}
